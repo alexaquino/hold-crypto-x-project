@@ -18,12 +18,12 @@
 </p>
 
 <p align="right">
-    <a href="https://github.com/alexaquino/xhold-crypto-project/">
+    <!-- <a href="https://github.com/alexaquino/xhold-crypto-project/">
         <img
             alt="GitHub release"
             src="https://img.shields.io/github/v/release/alexaquino/xhold-crypto-project?color=73398D&logo=Trustpilot&logoColor=ffffff&style=flat-square"
         />
-    </a>
+    </a> -->
     <a href="https://github.com/alexaquino/xhold-crypto-project/">
         <img
             alt="GitHub issue count"
@@ -65,8 +65,6 @@
 
 <!-- ## 0. NavBar  -->
 
-#
-
 <br/>
     <p align="center">
     <a></a> ⋮⋮⋮⋮⋮⋮⋮⋮
@@ -79,7 +77,6 @@
     </p>
 <br/>
 
-#
 
 ## 1. About
 
@@ -106,10 +103,15 @@
 
 <p align="justify"> <del> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book </del>. </p>
 
-| DEVELOPER            | UI/UX               | TESTER                |  PRODUCT OWNER               |
-| :------------------: | :------------------:| :--------------------:| :---------------------------:|
-<img src="./assets/team/alexaquino.png" title="Developer" width="100%" align="center"> | <img src="./assets/team/alexaquino.png" title="ui/ux" width="100%" align="center"> | <img src="./assets/team/alexaquino.png" title="Tester" width="100%" align="center"> | <img src="./assets/team/alexaquino.png" title="Product Owner" width="100%" align="center">
-| [Alex Aquino](https://github.com/alexaquino) | [Alex Aquino](https://github.com/alexaquino) | [Alex Aquino](https://github.com/alexaquino) | [Alex Aquino](https://github.com/alexaquino) |
+
+
+<style> th { width: 25%; } </style>
+
+
+| DEVELOPER            | UI/UX                | TESTER               |  PRODUCT OWNER       |
+| :------------------: | :------------------: | :------------------: | :------------------: |
+<img src="./assets/team/alexaquino.png"> | <img src="./assets/team/alexaquino.png"> | <img src="./assets/team/alexaquino.png"> | <img src="./assets/team/alexaquino.png">
+| [Alex Aquino] | [Alex Aquino] | [Alex Aquino] | [Alex Aquino] |
 
 
 ## 5. License
@@ -164,5 +166,9 @@ Licensed under the [MIT](LICENSE.txt) license.
 
 <p align="justify"> We love turn caffeine into code! If this project was useful to you and helped you manage and accumulate your cryptocurrencies of it in some form and you want to support the project, please consider buying us a coffee so we can keep adding new features. </p>
 
-</p>
+
+<!-- Links -->
+
+[Alex Aquino]:<https://github.com/alexaquino>
+
 
