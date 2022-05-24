@@ -1,6 +1,26 @@
+<br/>
+
+# 
+
+  <p align="center">
+		<a></a> ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+		<a href="#1-about">1. About</a> ⋮⋮⋮⋮⋮⋮
+		<a href="#2-demo">2. Demo</a> ⋮⋮⋮⋮⋮⋮
+		<a href="#3-contributing">3. Contributing</a> ⋮⋮⋮⋮⋮⋮
+		<a href="#4-team">4. Team</a> ⋮⋮⋮⋮⋮⋮
+		<a href="#5-license">5. License</a> ⋮⋮⋮⋮⋮⋮
+		<a href="#6-contact-and-support">6. Contact and Support</a> ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+  </p>
+
+#
+
+<br/>
+
 <p align="center">
   <img alt="banner" title="banner" src="./assets/readme/banner.png" />
 </p>
+
+<br/>
 
 <p align="right">
   <a href="#">
@@ -49,24 +69,6 @@
     />    
   </a>
 </p>
-</p>
-
-
-# xHold
-
-<br/> <!-- NavBar  -->
-  <p align="center">
-		<a></a> ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-		<a href="#1-about">1. About</a> ⋮⋮⋮⋮⋮⋮
-		<a href="#2-demo">2. Demo</a> ⋮⋮⋮⋮⋮⋮
-		<a href="#3-contributing">3. Contributing</a> ⋮⋮⋮⋮⋮⋮
-		<a href="#4-team">4. Team</a> ⋮⋮⋮⋮⋮⋮
-		<a href="#5-license">5. License</a> ⋮⋮⋮⋮⋮⋮
-		<a href="#6-contact-and-support">6. Contact and Support</a> ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-  </p>
-<br/>
-
-#
 
 
 ## 1. About
@@ -199,7 +201,7 @@ Licensed under the [MIT](LICENSE.txt) license.
 
 <!-- CSS -->
 
-<style type="text/css">
+<style>
 
 	table th:first-of-type {
   	width: 25%;
