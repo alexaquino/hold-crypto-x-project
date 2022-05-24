@@ -1,18 +1,12 @@
-<br/>
-
-# 
-
-  <p align="center">
-		<a></a> ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-		<a href="#1-about">1. About</a> ⋮⋮⋮⋮⋮⋮
-		<a href="#2-demo">2. Demo</a> ⋮⋮⋮⋮⋮⋮
-		<a href="#3-contributing">3. Contributing</a> ⋮⋮⋮⋮⋮⋮
-		<a href="#4-team">4. Team</a> ⋮⋮⋮⋮⋮⋮
-		<a href="#5-license">5. License</a> ⋮⋮⋮⋮⋮⋮
-		<a href="#6-contact-and-support">6. Contact and Support</a> ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
-  </p>
-
-#
+<p align="center">
+	<a></a> ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+	<a href="#1-about">1. About</a> ⋮⋮⋮⋮⋮⋮
+	<a href="#2-demo">2. Demo</a> ⋮⋮⋮⋮⋮⋮
+	<a href="#3-contributing">3. Contributing</a> ⋮⋮⋮⋮⋮⋮
+	<a href="#4-team">4. Team</a> ⋮⋮⋮⋮⋮⋮
+	<a href="#5-license">5. License</a> ⋮⋮⋮⋮⋮⋮
+	<a href="#6-contact-and-support">6. Contact and Support</a> ⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮⋮
+</p>
 
 <br/>
 
@@ -112,6 +106,63 @@
 
 <br/>
 
+<style>
+	table th:first-of-type {
+  	width: 25%;
+	}
+	table th:nth-of-type(2) {
+    width: 25%;
+	}
+	table th:nth-of-type(3) {
+    width: 25%;
+	}
+	table th:nth-of-type(4) {
+    width: 25%;
+	}
+
+	.table {
+		border-collapse:collapse;
+		border-spacing:0;
+		border-color:gray;
+	}
+	.table td {
+		border-color:gray;
+		border-style:solid;
+		border-width:1px;
+		font-family:Arial, sans-serif;
+		font-size:14px;
+  	font-weight:normal;
+		overflow:hidden;
+		padding:10px 5px;
+		word-break:normal;
+	}
+	.table th {
+		border-color:gray;
+		border-style:solid;
+		border-width:1px;
+		font-family:Arial, sans-serif;
+		font-size:14px;
+  	font-weight:normal;
+		overflow:hidden;
+		padding:10px 5px;
+		word-break:normal;
+	}
+	.table .table-header {
+		font-weight:bold;
+		text-align:center;
+		vertical-align:top
+	}
+
+	.table .table-image {
+		border-color:inherit;
+		text-align:left;
+		vertical-align:top
+	}
+	.table .table-footer { 
+		text-align:center;
+		vertical-align:top
+	}
+</style>
 <table class="table">
 	<thead>
 		<tr>
@@ -199,73 +250,6 @@ Licensed under the [MIT](LICENSE.txt) license.
 [Alex Aquino]:<https://github.com/alexaquino>
 
 
-<!-- CSS -->
 
-<style>
-
-	table th:first-of-type {
-  	width: 25%;
-	}
-
-	table th:nth-of-type(2) {
-    width: 25%;
-	}
-
-	table th:nth-of-type(3) {
-    width: 25%;
-	}
-
-	table th:nth-of-type(4) {
-    width: 25%;
-	}
-	
-	.table {
-		border-collapse:collapse;
-		border-spacing:0;
-		border-color:gray;
-	}
-
-	.table td {
-		border-color:gray;
-		border-style:solid;
-		border-width:1px;
-		font-family:Arial, sans-serif;
-		font-size:14px;
-  	font-weight:normal;
-		overflow:hidden;
-		padding:10px 5px;
-		word-break:normal;
-	}
-
-	.table th {
-		border-color:gray;
-		border-style:solid;
-		border-width:1px;
-		font-family:Arial, sans-serif;
-		font-size:14px;
-  	font-weight:normal;
-		overflow:hidden;
-		padding:10px 5px;
-		word-break:normal;
-	}
-
-	.table .table-header {
-		font-weight:bold;
-		text-align:center;
-		vertical-align:top
-	}
-	
-	.table .table-image {
-		border-color:inherit;
-		text-align:left;
-		vertical-align:top
-	}
-
-	.table .table-footer { 
-		text-align:center;
-		vertical-align:top
-	}
-
-</style>
 
 
