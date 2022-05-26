@@ -106,87 +106,16 @@
 
 <br/>
 
-<style>
-	table th:first-of-type {
-  	width: 25%;
-	}
-	table th:nth-of-type(2) {
-    width: 25%;
-	}
-	table th:nth-of-type(3) {
-    width: 25%;
-	}
-	table th:nth-of-type(4) {
-    width: 25%;
-	}
+<del>
+		
+| DEVELOPER            | DEVELOPER           | DEVELOPER           |  DEVELOPER          | 
+| :------------------: | :------------------:| :------------------:| :------------------:|
+<img src="./assets/team/alexaquino.png" width="100%" align="center"> | <img src="./assets/team/alexaquino.png" width="100%" align="center"> | <img src="./assets/team/alexaquino.png" width="100%" align="center"> | <img src="./assets/team/alexaquino.png" width="100%" align="center">
+| [Alex Aquino]        | [Alex Aquino]       | [Alex Aquino]       | [Alex Aquino] | 
 
-	.table {
-		border-collapse:collapse;
-		border-spacing:0;
-		border-color:gray;
-	}
-	.table td {
-		border-color:gray;
-		border-style:solid;
-		border-width:1px;
-		font-family:Arial, sans-serif;
-		font-size:14px;
-  	font-weight:normal;
-		overflow:hidden;
-		padding:10px 5px;
-		word-break:normal;
-	}
-	.table th {
-		border-color:gray;
-		border-style:solid;
-		border-width:1px;
-		font-family:Arial, sans-serif;
-		font-size:14px;
-  	font-weight:normal;
-		overflow:hidden;
-		padding:10px 5px;
-		word-break:normal;
-	}
-	.table .table-header {
-		font-weight:bold;
-		text-align:center;
-		vertical-align:top
-	}
+</del>
 
-	.table .table-image {
-		border-color:inherit;
-		text-align:left;
-		vertical-align:top
-	}
-	.table .table-footer { 
-		text-align:center;
-		vertical-align:top
-	}
-</style>
-<table class="table">
-	<thead>
-		<tr>
-			<th class="table-header">DEVELOPER</th>
-			<th class="table-header">UI/UX</th>
-			<th class="table-header">TESTER</th>
-			<th class="table-header">PRODUCT OWNER</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td class="table-image"><img width="100%" height="100%" src="./assets/team/alexaquino.png"></td>
-			<td class="table-image"><img width="100%" height="100%" src="./assets/team/alexaquino.png"></td>
-			<td class="table-image"><img width="100%" height="100%" src="./assets/team/alexaquino.png"></td>
-			<td class="table-image"><img width="100%" height="100%" src="./assets/team/alexaquino.png"></td>
-		</tr>
-		<tr>
-			<td class="table-footer"><a href="https://www.linkedin.com/in/aquinoalex/">Alex Aquino</a></td>
-			<td class="table-footer"><a href="https://www.linkedin.com/in/aquinoalex/">Alex Aquino</a></td>
-			<td class="table-footer"><a href="https://www.linkedin.com/in/aquinoalex/">Alex Aquino</a></td>
-			<td class="table-footer"><a href="https://www.linkedin.com/in/aquinoalex/">Alex Aquino</a></td>
-		</tr>
-	</tbody>
-</table>
+
 
 <br/>
 
@@ -248,7 +177,6 @@ Licensed under the [MIT](LICENSE.txt) license.
 <!-- Links -->
 
 [Alex Aquino]:<https://github.com/alexaquino>
-
 
 
 
